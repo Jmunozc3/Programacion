@@ -1,12 +1,9 @@
+//Trabajo realizado por Juan Manuel Muñoz del Cerro y Francisco Gonzalez Prieto
+
 #include <iostream>
 #include <vector>
 #include <array>
 using namespace std;
-
-
-//Trabajo realizado por Juan Manuel Muñoz del Cerro y Francisco Gonzalez Prieto
-//Revisar la clase constructor de Pelicula, al introducir una nueva pelicula da error, y parece que no hay errores.
-//El error sucede al llamar al constructor desde el main y introducir los parametros.
 
 class Fecha{
 
